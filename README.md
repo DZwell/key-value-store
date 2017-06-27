@@ -1,0 +1,1 @@
+A simple CRUD command line interface for key value stores
